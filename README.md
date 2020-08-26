@@ -6,7 +6,7 @@ I'm a Web & iOS developer. I'd like to make some contributions for open source a
 
 - Blog: <http://shinancao.cn/categories/>
 - Projects: <http://shinancao.cn/portfolio/>
-- Email: <shinancao666@163.com>
+- Email: <shinancao666@gmail.com>
 
 <!--
 **shinancao/shinancao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
